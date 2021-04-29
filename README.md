@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayivugwe. Gospel Preaching. Believer of the End-Time Message By Brother Branham.
+- 👋 Hi, I’m Ayivugwe Kabemba. Gospel Preacher. Believer of the End-Time Message By Brother Branham. Spftware Developer.
 - 👀 I’m interested in learning new things and building things which can help the community and the whole world.
 - 🌱 I’m currently learning different things...
 -  I'm currently working on different projects.
