@@ -8,7 +8,7 @@ ___What pushes me to learn more : Curiosity.___
 - Believer of the End-Time Message By Brother Branham.   
 - Software Developer  
 - DevOps Engineer / But currently implementing the DevOps Culture in the company where I work.    
-- Recruiter/Interviewer : As a DevOps, I'm also tasked with studiing submissions of those who need to work in the company where I work
+- Recruiter/Interviewer : As a DevOps, I'm also tasked with studying submissions of those who need to work in the company where I work
 
 # Where I work : ASYST Resources LTD
 
@@ -59,6 +59,16 @@ ___What pushes me to learn more : Curiosity.___
 - Cloud
 - NextJS
 - Web design
+
+
+#Languages I speak
+- Kifuliiru :  
+This is my mother tongue. By wanting to find things on the Internet in my own language, I found myself doing things I didn't know. This is my gratest  source of inspiration. I want to put my language everywhere, then I have to work hard. Search for the word : **Ibufuliiru** or **Kifuliiru** to see by yourself. 
+- Kiswahili
+- English
+- French
+- Spanish (Medium level, due to not practicing)
+- Esperanto (limited due to not practicing)
 
 <!---
 Ayivugwe/Ayivugwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
