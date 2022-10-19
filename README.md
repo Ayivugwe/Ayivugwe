@@ -1,9 +1,24 @@
-- 👋 Hi, I’m Ayivugwe Kabemba. Gospel Preacher. Believer of the End-Time Message By Brother Branham. Spftware Developer.
-- 👀 I’m interested in learning new things and building things which can help the community and the whole world.
-- 🌱 I’m currently learning different things...
--  I'm currently working on different projects.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# My name
+
+**AYIVUGWE KABEMBA**
+
+# What I do
+- Gospel Preacher   
+- Believer of the End-Time Message By Brother Branham.   
+- Software Developer  
+- DevOps Engineer  
+
+# My interests
+
+- Learning new things  
+- Building things which can help the community and the whole world.
+
+# What I am currently learning
+- Docker
+- Kubernetes
+- Cloud
+- NextJS
+- Web design
 
 <!---
 Ayivugwe/Ayivugwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
