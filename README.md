@@ -1,4 +1,6 @@
 # Welcome. My name is **AYIVUGWE KABEMBA**  
+___I am building things and 
+___I am Still Learning___ ___***This is my greatest skill***___ : **Able to learn and understand**.
 
 # I am a 
 - Gospel Preacher   
@@ -11,18 +13,14 @@
 
 # My interests
 - Research
+- Programming
+- Teaching
 - Learning new things  
+- Building communities 
 - Building things which can help the community and the whole world.
 - SEO
 - Building websites
 - Helping others
-
-# What I am currently learning
-- Docker
-- Kubernetes
-- Cloud
-- NextJS
-- Web design
 
 # Tools I use 
 
@@ -30,6 +28,8 @@
 - Spring Boot
 - Flutter
 - MySQL : Database
+- Docker
+- Kubernetes
 - React JS (Via NextJS)
 - GitHub
 - GitHub Actions
@@ -41,7 +41,6 @@
 - Firebase : Database
 - Wix
 - EditorX : Here I have many websites which are live
-- 
 - Vercel : For deploying my website
 - NexJS : For building websites
 - Firebase : For hosting (Beginning)
@@ -52,6 +51,13 @@
 - Intellij IDEA
 - Sublime Text : Simple text editor
 - Notepad ++
+
+# What I am currently learning
+- Docker
+- Kubernetes
+- Cloud
+- NextJS
+- Web design
 
 <!---
 Ayivugwe/Ayivugwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
