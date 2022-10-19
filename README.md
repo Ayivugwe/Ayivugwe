@@ -61,7 +61,7 @@ ___What pushes me to learn more : Curiosity.___
 - Web design
 
 
-#Languages I speak
+# Languages that I speak
 - Kifuliiru :  
 This is my mother tongue. By wanting to find things on the Internet in my own language, I found myself doing things I didn't know. This is my gratest  source of inspiration. I want to put my language everywhere, then I have to work hard. Search for the word : **Ibufuliiru** or **Kifuliiru** to see by yourself. 
 - Kiswahili
