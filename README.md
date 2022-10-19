@@ -1,6 +1,6 @@
 # Welcome. My name is **AYIVUGWE KABEMBA**  
 ___I am building things and___      
-___I am still learning.___ ___***This is my greatest skill***___ : **Being able to learn new things and understand**.  
+___I am still learning.___ ___***This is my greatest skill***___ : **Being able to learn new things and understand them**.  
 ___What pushes me to learn more : Curiosity.___
 
 # I am a 
