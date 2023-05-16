@@ -3,16 +3,19 @@ ___I am building things and___
 ___I am still learning.___ ___***This is my greatest skill***___ : **Being able to learn new things and understand them**.  
 ___What pushes me to learn more : Curiosity.___
 
-# I am a 
+## I am a 
 - Gospel Preacher   
 - Believer of the End-Time Message By Brother Branham.   
 - Software Developer  
 - DevOps Engineer / But currently implementing the DevOps Culture in the company where I work.    
 - Recruiter/Interviewer : As a DevOps, I'm also tasked with studying submissions of those who need to work in the company where I work
+- GitHub Administrator
+- Jira Administrator
+- Slack Administrator
 
-# Where I work : ASYST Resources LTD
+## Where I work : ASYST Resources LTD
 
-# My interests
+## My interests
 - Research
 - Programming
 - Teaching
@@ -23,7 +26,7 @@ ___What pushes me to learn more : Curiosity.___
 - Building websites
 - Helping others
 
-# Tools I use 
+## Tools I use 
 
 - Java
 - Spring Boot
@@ -53,15 +56,15 @@ ___What pushes me to learn more : Curiosity.___
 - Sublime Text : Simple text editor
 - Notepad ++
 
-# What I am currently learning
+## What I am currently learning
 - Docker
 - Kubernetes
 - Cloud
-- NextJS
+- JavaScrispt, Reactjs, NextJS
+- Design
 - Web design
 
-
-# Languages that I speak
+## Languages that I speak
 - **Kifuliiru** :  
 This is my mother tongue. By wanting to find things on the Internet in my own language, I found myself doing things I didn't know. This is my gratest  source of inspiration. I want to put my language everywhere, then I have to work hard. Search for the word : **Ibufuliiru** or **Kifuliiru** to see by yourself. 
 
