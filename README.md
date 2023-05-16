@@ -12,6 +12,7 @@ ___What pushes me to learn more : Curiosity.___
 - GitHub Administrator
 - Jira Administrator
 - Slack Administrator
+- AWS Administrator
 
 ## Where I work : ASYST Resources LTD
 
@@ -19,6 +20,7 @@ ___What pushes me to learn more : Curiosity.___
 - Research
 - Programming
 - Teaching
+- Cloud
 - Learning new things  
 - Building communities 
 - Building things which can help the community and the whole world.
@@ -57,6 +59,7 @@ ___What pushes me to learn more : Curiosity.___
 - Notepad ++
 
 ## What I am currently learning
+- Prompt Engineering
 - Docker
 - Kubernetes
 - Cloud
