@@ -1,23 +1,26 @@
 # Welcome. My name is **AYIVUGWE KABEMBA**  
-___I am building things and___      
-___I am still learning.___ ___***This is my greatest skill***___ : **Being able to learn new things and understand them**.  
-___What pushes me to learn more : Curiosity.___
 
 ## I am a 
-- Gospel Preacher   
-- Believer of the End-Time Message By Brother Branham.   
-- Software Developer  
+- Gospel Preacher
+- Translator & Interpreter  
+- Believer of the End-Time Message preached by Brother Branham.   
+- Software Developer
+- Java code reviewer
 - DevOps Engineer / But currently implementing the DevOps Culture in the company where I work.    
-- Recruiter/Interviewer : As a DevOps, I'm also tasked with studying submissions of those who need to work in the company where I work
-- GitHub Administrator
-- Jira Administrator
-- Slack Administrator
-- AWS Administrator
+- Recruiter/Interviewer : I'm sometimes tasked with studying submissions of those who need to work in the company where I work or I participate in the interview jury
+- **GitHub Administrator**
+- **Jira Administrator**
+- **Slack Administrator**
+- **AWS Administrator**
+- ___I am building things and___      
+  ___I am still learning.___ ___***This is my greatest skill***___ : **Being able to learn new things and understand them**.  
+  ___What pushes me to learn more : Curiosity.___
 
 ## Where I work : ASYST Resources LTD
 
 ## My interests
 - Research
+- Code Review
 - Programming
 - Teaching
 - Cloud
