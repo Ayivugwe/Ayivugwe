@@ -4,12 +4,14 @@
 <details>
 <summary>Technology and my carrier</summary>
 <p>I'm curious man from DRCongo and a technology lover. I'm Software Developer, DevOps. Software Developer Java code reviewer</p>
-  - DevOps Engineer / But currently implementing the DevOps Culture in the company where I work.
-  - Recruiter/Interviewer : I'm sometimes tasked with studying submissions of those who need to work in the company where I work or I participate in the interview jury
-  - GitHub Administrator
-  - Jira Administrator 
-  - Slack Administrator 
-  - AWS Administrator  
+  <ul>
+    <li>DevOps Engineer / But currently implementing the DevOps Culture in the company where I work.</li>
+    <li>Recruiter/Interviewer : I'm sometimes tasked with studying submissions of those who need to work in the company where I work or I         participate in the interview jury</li>
+    <li>GitHub Administrator</li>
+    <li>Jira Administrator </li>
+    <li>Slack Administrator </li>
+    <li>AWS Administrator</li>
+  </ul> 
 </details>
 
 <details>
