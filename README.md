@@ -3,15 +3,18 @@
 ## I am a 
 - Gospel Preacher
 - Translator & Interpreter  
-- Believer of the End-Time Message preached by Brother Branham.   
+- Believer of the End-Time Message preached by Brother Branham.
+- Man of confidence
 - Software Developer
 - Java code reviewer
 - DevOps Engineer / But currently implementing the DevOps Culture in the company where I work.    
 - Recruiter/Interviewer : I'm sometimes tasked with studying submissions of those who need to work in the company where I work or I participate in the interview jury
+  
 - **GitHub Administrator**
-- **Jira Administrator**
+- **Jira and Confluence Administrator**
 - **Slack Administrator**
 - **AWS Administrator**
+- 
 - ___I am building things and___      
   ___I am still learning.___ ___***This is my greatest skill***___ : **Being able to learn new things and understand them**.  
   ___What pushes me to learn more : Curiosity.___
