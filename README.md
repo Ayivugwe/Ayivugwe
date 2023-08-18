@@ -3,7 +3,7 @@
 
 <details>
 <summary>Technology and my carrier</summary>
-<p>I'm curious man from DRCongo and a technology lover. I'm Software Developer, DevOps. Software Developer Java code reviewer</p>
+<p>I'm a curious man from DRCongo and a technology lover. I'm Software Developer, DevOps. Software Developer Java code reviewer</p>
   <ul>
     <li>DevOps Engineer / But currently implementing the DevOps Culture in the company where I work.</li>
     <li>Recruiter/Interviewer : I'm sometimes tasked with studying submissions of those who need to work in the company where I work or I         participate in the interview jury</li>
