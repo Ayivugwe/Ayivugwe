@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayivugwe Kabemba</h1>
-<h3 align="">I have been introduced to technology and I've never been fed of it. I am still very curious and I love technology becuase it changes lives. I have found out that the main qualification I may give myself is CURIOUS. Nothing else could have brought me to this level weren't curiosity.</h3>
+<p align="">I have been introduced to technology and I've never been fed of it. I am still very curious and I love technology becuase it changes lives. I have found out that the main qualification I may give myself is CURIOUS. Nothing else could have brought me to this level weren't curiosity.</p>
 
 <details>
 <summary>Technology and my carrier</summary>
