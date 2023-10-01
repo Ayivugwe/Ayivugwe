@@ -1,4 +1,4 @@
-# Welcome 👋, I'm Ayivugwe Kabemba
+# Welcome 👋, my name is Ayivugwe Kabemba
 
 ## I am a 
 - Gospel Preacher
