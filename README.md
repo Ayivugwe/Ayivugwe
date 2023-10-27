@@ -35,11 +35,15 @@ After working as a Sotware Devoloper for almost 5 years, I was given this respon
 - Spring Boot
 - Flutter
 - MySQL
+- Python
+- .NET and C#
 - MongoDB
 - Supabase
 - Docker
 - Kubernetes
+- JavaScrispt
 - ReactJs
+- NextJs
 - GitHub
 - GitHub Actions
 - Git
@@ -56,25 +60,20 @@ After working as a Sotware Devoloper for almost 5 years, I was given this respon
 - VS Code
 - Eclipse
 - Intellij IDEA
-- Sublime Text : Simple text editor
+- Sublime Text
 - Notepad ++
 - Prompt Engineering
 - Docker
 - Kubernetes
 - Cloud
-- JavaScrispt, Reactjs, NextJS
-- Design
 - Web design
-- Research
 - Code Review
-- Programming
 - Teaching
 - Cloud
 - Learning new things  
 - Community building 
 - Building things which can help the community and the whole world.
 - SEO
-- Building websites
 - Helping others
 
 ## Languages that I speak
@@ -86,6 +85,15 @@ This is my mother tongue. By wanting to find things on the Internet in my own la
 - French
 - Spanish (Medium level, due to not practicing)
 - Esperanto (limited due to not practicing)
+
+Most of the time I'm constantly thinking about a solution to help my mother tongue Kifuliiru to not perish. I write a lot in this language and you can at least see my writings on this different website and platfoms: 
+
+- [Kifuliiru](https://ibufuliiru.editorx.io/kifuliiru/)
+- [Imyazi mu Kifuliiru](https://ibufuliiru.editorx.io/imyazi)
+- [Ibufuliiru](https://ibufuliiru.editorx.io/ibufuliiru/)
+- [Imyazi ye'Radio Ibufuliiru](https://radioibufuliiru.substack.com/)
+
+I'm using all my knowledge to bring this idea to life. You may want to contribute on the different projects I'm working on for this language, you are welcome. I have a flutter mobile app project using FlutterFlow.  
 
 Thank you so much for reading about me up to the end, ✨ you are special to me. Contact me on my social media accounts.✨ 
 
