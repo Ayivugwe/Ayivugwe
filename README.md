@@ -88,11 +88,11 @@ This is my mother tongue. By wanting to find things on the Internet in my own la
 
 Most of the time I'm constantly thinking about a solution to help my mother tongue Kifuliiru to not perish. I write a lot in this language and you can at least see my writings on this different website and platfoms: 
 
-- [Kifuliiru](https://ibufuliiru.editorx.io/kifuliiru/)
-- [Tusome i Kifuliiru](https://tusome-i-kifuliiru.vercel.app/)
-- [Imyazi mu Kifuliiru](https://ibufuliiru.editorx.io/imyazi)
-- [Ibufuliiru](https://ibufuliiru.editorx.io/ibufuliiru/)
-- [Imyazi ye'Radio Ibufuliiru](https://radioibufuliiru.substack.com/)
+- [Kifuliiru](https://ibufuliiru.editorx.io/kifuliiru/){:target="_blank"}
+- [Tusome i Kifuliiru](https://tusome-i-kifuliiru.vercel.app/){:target="_blank"}
+- [Imyazi mu Kifuliiru](https://ibufuliiru.editorx.io/imyazi){:target="_blank"}
+- [Ibufuliiru](https://ibufuliiru.editorx.io/ibufuliiru/){:target="_blank"}
+- [Imyazi ye'Radio Ibufuliiru](https://radioibufuliiru.substack.com/){:target="_blank"}
 
 I'm using all my knowledge to bring this idea to life. You may want to contribute on the different projects I'm working on for this language, you are welcome. I have a flutter mobile app project using FlutterFlow.  
 
