@@ -3,15 +3,17 @@
 ## I am a 
 - Gospel Preacher, Translator & Interpreter, Believer of the End-Time Message preached by Brother Branham.
 - Man of confidence  
-- ___I am building things and___      
-  ___I am still learning.___ ___***This is my greatest skill***___ : **Being able to learn new things and understand them**.  
-  ___What pushes me to learn more : Curiosity.___
+- _I am building things_      
+  _I am a quick learner. This is my greatest skill_  
+  _What pushes me to learn more : Curiosity._
 
 ## My professional life
 I have worked for only one employer my whole professional life from 2017 up to August 2023: that employer is a Tech Company called **ASYST Resources LTD**. It's situated in Bujumbura, the capital city of Burundi. I assumed 2 roles : 
 
 - Software Developer and
-- DevOps Envangelist & DevOps Engineer: I was called Mr. DevOps. I have been in charge for implementing the DevOps culture in that company. It was not easy but as always, I face problems and never give up. This role was one of the most challenging responsibilities I've ever taken. At a given point I was called the **Guardian of the temple.** By this you may understand that I had almost all the confidence and trust from the company management. To be clear and true, I was given almost every responsibility you may think of until I was asking myself what the CEO saw in me. I was in charge of our cloud accounts like GitHub, Atlassian (Jira and Confluence), implementing the best practices, the choice of the tools to use, and many other responisibilities. You may think that we had a very small team that's why I had to assume all those responsibilities; but no. At a given point we where more than 50 developers. Ahhh! Yes. And I was beeing given all those those responsibilities. Why that? One day the CEO called me in his office and told me that I may have other side effects but that I'm an authentic man.   
+- DevOps Envangelist & DevOps Engineer
+
+  I was called Mr. DevOps. I have been in charge for implementing the DevOps culture in that company. It was not easy but as always, I face problems and never give up. This role was one of the most challenging responsibilities I've ever taken. At a given point I was called the **Guardian of the temple.** By this you may understand that I had almost all the confidence and trust from the company management. To be clear and true, I was given almost every responsibility you may think of until I was asking myself what the CEO saw in me. I was in charge of our cloud accounts like GitHub, Atlassian (Jira and Confluence), implementing the best practices, the choice of the tools to use, and many other responisibilities. You may think that we had a very small team that's why I had to assume all those responsibilities; but no. At a given point we where more than 50 developers. Ahhh! Yes. And I was beeing given all those those responsibilities. Why that? One day the CEO called me in his office and told me that I may have other side effects but that I'm an authentic man.   
 
   As a DevOps, I was in charge of: 
   - Java Backend code review
