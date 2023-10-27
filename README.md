@@ -89,8 +89,9 @@ This is my mother tongue. By wanting to find things on the Internet in my own la
 
 Most of the time I'm constantly thinking about a solution to help my mother tongue Kifuliiru to not perish. I write a lot in this language and you can at least see my writings on this different website and platfoms: 
 
-- [Kifuliiru](https://ibufuliiru.editorx.io/kifuliiru/?target=_blank)
-- [Tusome i Kifuliiru](https://tusome-i-kifuliiru.vercel.app/){:target="_blank"}
+
+- <a href="https://ibufuliiru.editorx.io/kifuliiru/" target="_blank">Kifuliiru</a>
+- <a href="https://tusome-i-kifuliiru.vercel.app/" target="_blank">Tusome i Kifuliiru</a>
 - [Imyazi mu Kifuliiru](https://ibufuliiru.editorx.io/imyazi){:target="_blank"}
 - [Ibufuliiru](https://ibufuliiru.editorx.io/ibufuliiru/){:target="_blank"}
 - [Imyazi ye'Radio Ibufuliiru](https://radioibufuliiru.substack.com/){:target="_blank"}
