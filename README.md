@@ -1,4 +1,4 @@
-# Welcome 👋, my name is Ayivugwe Kabemba
+# Welcome 👋 to my GitHub profile. My name is Ayivugwe Kabemba
 
 ## I am a 
 - Gospel Preacher, Translator & Interpreter, Believer of the End-Time Message preached by Brother Branham.
