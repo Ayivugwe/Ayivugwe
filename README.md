@@ -1,9 +1,7 @@
 # Welcome 👋, my name is Ayivugwe Kabemba
 
 ## I am a 
-- Gospel Preacher
-- Translator & Interpreter  
-- Believer of the End-Time Message preached by Brother Branham.
+- Gospel Preacher, Translator & Interpreter, Believer of the End-Time Message preached by Brother Branham.
 - Man of confidence
 - Software Developer
 - Java code reviewer
