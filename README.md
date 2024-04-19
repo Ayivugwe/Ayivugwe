@@ -2,8 +2,8 @@
 My name is Ayivugwe Kabemba
 
 ## I am a 
-- Gospel Preacher, Translator & Interpreter, Believer of the End-Time Message preached by Brother Branham.
-- Man of confidence  
+Christian. Gospel preacher, Interpreter, translator. Developer. DevOps. Kifuliiru language Advocate. Field Associate.  My projects: Weka Foundation & Ibufuliiru
+
 - _I am building things_      
   _I am a quick learner. This is my greatest skill_  
   _What pushes me to learn more : Curiosity._
