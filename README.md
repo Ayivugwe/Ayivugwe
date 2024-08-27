@@ -32,60 +32,28 @@ After working as a Sotware Devoloper for almost 5 years, I was given this respon
 - Tech
 
 ## Skills
-- Java
-- Spring Boot
-- Flutter
-- MySQL
-- Python
-- .NET and C#
-- MongoDB
-- Supabase
-- Docker
-- Kubernetes
-- JavaScrispt
-- ReactJs
-- NextJs
-- GitHub
-- GitHub Actions
-- Git
-- GitHub Desktop
-- Slack
-- monday.com
-- Jira
-- Confluence
-- Wix
-- EditorX
-- Vercel
-- Nex.js 
-- Firebase 
-- VS Code
-- Eclipse
-- Intellij IDEA
-- Sublime Text
-- Notepad ++
-- Prompt Engineering
-- Docker
-- Kubernetes
-- Cloud
-- Web design
-- Code Review
-- Teaching
-- Cloud
-- Learning new things  
-- Community building 
-- Building things which can help the community and the whole world.
-- SEO
-- Helping others
+
+|Skills                   | Skills                   | Project Management  | Website buuilders
+|-------------------------|--------------------------|---------------------|--------------------------|
+| Java                    | GitHub                   | Jira                | Wix                      |
+| Spring Boot             | GitHub Actions           | Confluene           | Wix Studio               |
+| Flutter                 | Git                      | monday.com          |                          |
+| MySQL                   | Slack                    |                     |                          |
+| Docker                  |                          |                     |                          |
+| Kubernetes              |                          |                     |                          |
+| Python                  |                          |                     |                          |
+| MongoDB                 |                          |                     |                          |
+| Supabase                |                          |                     |                          |
+|                         |                          |                     |                          |
 
 ## Languages that I speak
 - **Kifuliiru** :  
 This is my mother tongue. By wanting to find things on the Internet in my own language, I found myself doing things I didn't know. This is my gratest  source of inspiration. I want to put my language everywhere, then I have to work hard. Search for the word : **Ibufuliiru** or **Kifuliiru** to see by yourself. 
 
-- Kiswahili
-- English
-- French
-- Spanish (Medium level, due to not practicing)
-- Esperanto (limited due to not practicing)
+| Native                  | Learned                  |
+|-------------------------|--------------------------|
+| Kifuliiru               | English                  |
+| Kiswahili               | French                   |
 
 Most of the time I'm constantly thinking about a solution to help my mother tongue Kifuliiru to not perish. I write a lot in this language and you can at least see my writings on this different website and platfoms: 
 
