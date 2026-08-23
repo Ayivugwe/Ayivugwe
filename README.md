@@ -1,74 +1,172 @@
-# Welcome 👋 to my GitHub profile. 
-My name is Ayivugwe Kabemba
+# Hi, I'm Ayivugwe Kabemba 👋
 
-## I am a 
-Christian. Gospel preacher, Interpreter, translator. Developer. DevOps. Kifuliiru language Advocate. Field Associate.  My projects: Weka Foundation & Ibufuliiru
+**Software Engineer · Product Builder · Technologist**
 
-- _I am building things_      
-  _I am a quick learner. This is my greatest skill_  
-  _What pushes me to learn more : Curiosity._
+I build software products from idea to production. My experience spans **software development, DevOps, project management, system architecture, data platforms, and AI-integrated applications**.
 
-## My professional life
-I have worked for only one employer my whole professional life from 2017 up to August 2023: that employer is a Tech Company called **ASYST Resources LTD**. It's situated in Bujumbura, the capital city of Burundi. I assumed 2 roles : 
+Today, much of my work is built through **[Wekify LLC](https://wekify.com)** across two areas:
 
-- Software Developer and
-- DevOps Envangelist & DevOps Engineer
+* **[Kifuliiru Lab](https://kifuliiru.com)** — language technology, structured data, AI, research, and digital infrastructure.
+* **[Peacae](https://peacae.com)** — general-purpose software products for work, productivity, workflows, events, recording, and other everyday problems.
 
-  I was called Mr. DevOps. I have been in charge for implementing the DevOps culture in that company. It was not easy but as always, I face problems and never give up. This role was one of the most challenging responsibilities I've ever taken. At a given point I was called the **Guardian of the temple.** By this you may understand that I had almost all the confidence and trust from the company management. To be clear and true, I was given almost every responsibility you may think of until I was asking myself what the CEO saw in me. I was in charge of our cloud accounts like GitHub, Atlassian (Jira and Confluence), implementing the best practices, the choice of the tools to use, and many other responisibilities. You may think that we had a very small team that's why I had to assume all those responsibilities; but no. At a given point we where more than 50 developers. Ahhh! Yes. And I was beeing given all those those responsibilities. Why that? One day the CEO called me in his office and told me that I may have other side effects but that I'm honest.   
+I enjoy learning by building and solving problems that require me to move beyond what I already know.
 
-  As a DevOps, I was in charge of: 
-  - Java Backend code review
-  - GitHub Administrator
-  - Jira and Confluence Administrator
-  - Slack Administrator
-  - AWS Administrator
-  - In charge of the deployments
-  - Hiring Interview : I was sometimes tasked with studying submissions of those who need to work in the company.
+> **I am driven by what I don't know.**
 
-## My Story as a DevOps 
-After working as a Sotware Devoloper for almost 5 years, I was given this responisbility without knowing what was coming next. This role has been a key to my own life as I realised that people see me in a manner that I didn't think. What brought me to assuming this role? I shouldn't have an answer but my story is very long. I was not even expecting to work in this company but I asked for inerneship only. As the company was beasy to advance with projects, I was told that I should receive the interneship but there was no one to assist me. I decided to find intership else where. I did so. Almost one year after, I was called and it wasn't no more about internership but about job. Thank God, after many processes, I was hired not as a full employee but in a test period. And that's where my story starts a professional Software Developer. May God bless the CEO who decided to give me that occasion. I had to show my adaptability. It was never easy for someone without any other serious professional experience. As this was already a decisive challenge, I had no other choice but to adapt. I worked like hell and I was confirmed as a Junior Software Developer within six months. Then I turned a new page in my life. I worked for almost 5 years in that company in that same role and worked on multiple projects.     
+## 🚀 Projects
 
-## My interests
-- Tech
+### Kifuliiru Data Engines
 
-## Skills
+**Next.js · PostgreSQL · Supabase · Vercel · AI**
 
-|Skills                   | Skills                   | Project Management  | Website buuilders
-|-------------------------|--------------------------|---------------------|--------------------------|
-| Java                    | GitHub                   | Jira                | Wix                      |
-| Spring Boot             | GitHub Actions           | Confluene           | Wix Studio               |
-| Flutter                 | Git                      | monday.com          |                          |
-| MySQL                   | Slack                    |                     |                          |
-| Docker                  |                          |                     |                          |
-| Kubernetes              |                          |                     |                          |
-| Python                  |                          |                     |                          |
-| MongoDB                 |                          |                     |                          |
-| Supabase                |                          |                     |                          |
-|                         |                          |                     |                          |
+Language-data engines for conjugation, numbers, and structured data generation, using AI for linguistic metadata extraction and deterministic engines for generation.
 
-## Languages that I speak
-- **Kifuliiru** :  
-This is my mother tongue. By wanting to find things on the Internet in my own language, I found myself doing things I didn't know. This is my gratest  source of inspiration. I want to put my language everywhere, then I have to work hard. Search for the word : **Ibufuliiru** or **Kifuliiru** to see by yourself. 
+### [Tabula Kifuliiru](https://tabula.kifuliiru.com)
 
-| Native                  | Learned                  |
-|-------------------------|--------------------------|
-| Kifuliiru               | English                  |
-| Kiswahili               | French                   |
+**Next.js · TypeScript · PostgreSQL · Supabase · AI**
 
-Most of the time I'm constantly thinking about a solution to help my mother tongue Kifuliiru to not perish. I write a lot in this language and you can at least see my writings on this different website and platfoms: 
+Contribution and data platform supporting 20+ data domains, multilingual AI workflows, review systems, RBAC/RLS, and downstream applications.
 
+### [Lola Kifuliiru](https://lola.kifuliiru.com)
 
-- [Kifuliiru](https://ibufuliiru.editorx.io/kifuliiru/)
-- [Tusome i Kifuliiru](https://tusome-i-kifuliiru.vercel.app/)
-- [Imyazi mu Kifuliiru](https://ibufuliiru.editorx.io/imyazi)
-- [Ibufuliiru](https://ibufuliiru.editorx.io/ibufuliiru/)
-- [Imyazi ye'Radio Ibufuliiru](https://radioibufuliiru.substack.com/)
+**Next.js · Supabase · AI**
 
-I'm using all my knowledge to bring this idea to life. You may want to contribute on the different projects I'm working on for this language, you are welcome. I have a flutter mobile app project using FlutterFlow.  
+Community platform for user-generated Kifuliiru content, language contributions, audio, and community interaction.
 
-Thank you so much for reading about me up to the end, ✨ you are special to me. Contact me on my social media accounts.✨ 
+### Kifuliiru Chatbot
 
-<!---
-Ayivugwe/Ayivugwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**AI · Retrieval · PostgreSQL · Supabase**
+
+Conversational system that retrieves real Kifuliiru conversation data from the database to ground AI responses.
+
+### [Kifuliiru Dictionary](https://dictionary.kifuliiru.net)
+
+**Next.js · Supabase · PostgreSQL**
+
+Multilingual digital dictionary for Kifuliiru, English, French, and Kiswahili with structured contributions and audio support.
+
+### KObs & KLaSAn
+
+**Next.js · PostgreSQL · Language Data**
+
+Kifuliiru Observatory, Simulator, and Analyzer for exploring, analyzing, and experimenting with structured language data.
+
+### KEd & KEd Studio
+
+**Next.js · Publishing · Content Tools**
+
+Kifuliiru text editor and publishing environment for writing, autocomplete, book content, cover art, and document customization.
+
+### [Kifuliiru Numbers](https://kifuliiru.com/any-number)
+
+**Data Engines · Web · Mobile**
+
+Number-generation and learning tools built from reusable Kifuliiru number rules and data.
+
+### [Imyazi](https://imyazi.com)
+
+**Next.js · PostgreSQL · Supabase**
+
+News platform publishing structured content from the Kifuliiru ecosystem, including data contributed through Tabula Kifuliiru and community-generated content.
+
+### [Peacae PM](https://peacae.com)
+
+**Project Management · Product Engineering**
+
+Project and product management software designed around progress, product coverage, and practical project workflows.
+
+### Peacae Resume
+
+**Next.js · TypeScript · Document Generation**
+
+Resume builder for turning structured Markdown content into customizable, job-ready resumes and PDF documents.
+
+### [OhRec](https://ohrec.peacae.com)
+
+**Recording · Local-First · Editing**
+
+Local-first screen recording and studio software designed around user-owned video files without mandatory cloud storage.
+
+### [Wenodify](https://wenodify.peacae.com)
+
+**Workflows · Structured Data · Product Engineering**
+
+Software for building structured workflows, conversation trees, relationships, and other connected information.
+
+### Peacae Events
+
+**Next.js · Supabase · Event Management**
+
+Event-management software for invitations, RSVP passes, attendee workflows, and organizer administration.
+
+## 💼 Professional Background
+
+### [Wekify LLC](https://wekify.com) — Founder & Lead Developer
+
+**2024 – Present**
+
+I design, build, deploy, and operate software products across Kifuliiru Lab and Peacae, working across architecture, frontend and backend development, databases, AI integration, deployment, and product iteration.
+
+### ASYST Resources LTD
+
+**2017 – 2023**
+
+**Software Developer → DevOps Lead / Administrator → Project Manager / Scrum Master**
+
+I progressed from software development into DevOps and technical project leadership, working across application development, deployments, cloud infrastructure, development tooling, Agile/Scrum, and software delivery.
+
+Responsibilities included:
+
+* Software development and Java code review
+* GitHub and AWS administration
+* Application deployments and development workflows
+* Jira and Confluence administration
+* Slack administration
+* Agile/Scrum and project delivery
+* Technical participation in hiring
+
+## 🛠️ Technologies & Tools
+
+**Engineering:** TypeScript/JavaScript · Next.js · React · Python · Django · Java · SQL
+
+**Data & AI:** PostgreSQL · Supabase · LLM APIs · RAG · Structured Outputs · AI Workflows
+
+**Cloud & DevOps:** Vercel · AWS · Docker · GitHub Actions · Git · CI/CD
+
+**Product & Collaboration:** System Design · Agile/Scrum · Jira · Confluence · Slack
+
+**Development:** GitHub · Cursor · Codex · Claude Code · VS Code
+
+## 🌍 Why Kifuliiru?
+
+Kifuliiru is my mother tongue and the inspiration behind much of my language-technology work.
+
+What began as an effort to put more Kifuliiru knowledge online has grown into an ecosystem of **structured datasets, contribution systems, data engines, conversational AI, publishing, audio, analysis, learning tools, and community platforms**.
+
+The goal is bigger than building websites: **build the data and software infrastructure that allows Kifuliiru to participate in modern technology and AI.**
+
+**Kifuliiru Kigayamaho.**
+
+## 🎓 Education & Certifications
+
+**B.S. Computer Science** — University of Ngozi
+
+* Google Project Management Professional Certificate
+* GitHub Foundations
+* Digital Journalism — Reuters & Meta
+* Meta Back-End Developer Professional Certificate — In Progress
+
+## 🌐 Languages
+
+**Kifuliiru** — Native
+**English** — Advanced
+**French** — Proficiency
+**Kiswahili** — Proficiency
+
+## 📫 Connect
+
+**Portfolio:** [ayivugwekabemba.me](https://ayivugwekabemba.me)
+**Company:** [wekify.com](https://wekify.com)
+**Products & Projects:** [wekify.com/products](https://wekify.com/products)
+
+I'm interested in **building useful software, solving difficult technical problems, learning new systems, and turning ideas into working products.**
