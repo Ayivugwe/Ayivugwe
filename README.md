@@ -4,14 +4,16 @@
 
 I build software products from idea to production. My experience spans **software development, DevOps, project management, system architecture, data platforms, and AI-integrated applications**.
 
-Today, much of my work is built through **[Wekify LLC](https://wekify.com)** across two areas:
+Today, much of my work is built through **[Wekify LLC](https://wekify.com)** across two major areas:
 
-* **[Kifuliiru Lab](https://kifuliiru.com)** — language technology, structured data, AI, research, and digital infrastructure.
-* **[Peacae](https://peacae.com)** — general-purpose software products for work, productivity, workflows, events, recording, and other everyday problems.
+* [**Kifuliiru Lab**](https://kifuliiru.com/) — Kifuliiru Language Laboratory.
+* [**Peacae**](https://peacae.com/) — general-purpose software products for work, productivity, workflows, events, recording, and other everyday problems.
 
 I enjoy learning by building and solving problems that require me to move beyond what I already know.
 
 > **I am driven by what I don't know.**
+
+---
 
 ## 🚀 Projects
 
@@ -41,15 +43,15 @@ Conversational system that retrieves real Kifuliiru conversation data from the d
 
 ### [Kifuliiru Dictionary](https://dictionary.kifuliiru.net)
 
-**Next.js · Supabase · PostgreSQL**
+**Next.js · PostgreSQL · Supabase**
 
-Multilingual digital dictionary for Kifuliiru, English, French, and Kiswahili with structured contributions and audio support.
+Multilingual digital dictionary for Kifuliiru, English, French, and Kiswahili with structured language data and audio.
 
 ### KObs & KLaSAn
 
 **Next.js · PostgreSQL · Language Data**
 
-Kifuliiru Observatory, Simulator, and Analyzer for exploring, analyzing, and experimenting with structured language data.
+Kifuliiru Observatory, Simulator, and Analyzer for observing, analyzing, and experimenting with structured Kifuliiru data.
 
 ### KEd & KEd Studio
 
@@ -63,11 +65,23 @@ Kifuliiru text editor and publishing environment for writing, autocomplete, book
 
 Number-generation and learning tools built from reusable Kifuliiru number rules and data.
 
+### [Kifuliiru Academy](https://kifuliiru.com/academy)
+
+**Learning · Language Data · Interactive Tools**
+
+Learning platform bringing together Kifuliiru lessons, conversations, numbers, grammar, conjugation, and interactive practice.
+
+### [Loonga](https://kifuliiru.com/discover)
+
+**Discovery · Data · Culture**
+
+Discovery platform for exploring Kifuliiru language, mathematics, Ibufuliiru, Abafuliiru, culture, contributors, and other structured resources.
+
 ### [Imyazi](https://imyazi.com)
 
 **Next.js · PostgreSQL · Supabase**
 
-News platform publishing structured content from the Kifuliiru ecosystem, including data contributed through Tabula Kifuliiru and community-generated content.
+News platform publishing structured content from the Kifuliiru ecosystem, including data from Tabula Kifuliiru and community-generated content.
 
 ### [Peacae PM](https://peacae.com)
 
@@ -99,6 +113,8 @@ Software for building structured workflows, conversation trees, relationships, a
 
 Event-management software for invitations, RSVP passes, attendee workflows, and organizer administration.
 
+---
+
 ## 💼 Professional Background
 
 ### [Wekify LLC](https://wekify.com) — Founder & Lead Developer
@@ -125,6 +141,8 @@ Responsibilities included:
 * Agile/Scrum and project delivery
 * Technical participation in hiring
 
+---
+
 ## 🛠️ Technologies & Tools
 
 **Engineering:** TypeScript/JavaScript · Next.js · React · Python · Django · Java · SQL
@@ -137,15 +155,21 @@ Responsibilities included:
 
 **Development:** GitHub · Cursor · Codex · Claude Code · VS Code
 
-## 🌍 Why Kifuliiru?
+---
 
-Kifuliiru is my mother tongue and the inspiration behind much of my language-technology work.
+## 🌍 Kifuliiru Lab
 
-What began as an effort to put more Kifuliiru knowledge online has grown into an ecosystem of **structured datasets, contribution systems, data engines, conversational AI, publishing, audio, analysis, learning tools, and community platforms**.
+[**Kifuliiru Lab**](https://kifuliiru.com/) is the **Kifuliiru Language Laboratory**.
+
+It is where I work on Kifuliiru language research, structured data, computational tools, experimentation, preservation, and the infrastructure needed to bring the language into modern digital and AI systems.
+
+What began as an effort to put more Kifuliiru knowledge online has grown into an interconnected ecosystem of **structured datasets, contribution systems, data engines, conversational AI, publishing tools, audio, analysis, learning platforms, and community applications**.
 
 The goal is bigger than building websites: **build the data and software infrastructure that allows Kifuliiru to participate in modern technology and AI.**
 
 **Kifuliiru Kigayamaho.**
+
+---
 
 ## 🎓 Education & Certifications
 
@@ -156,12 +180,16 @@ The goal is bigger than building websites: **build the data and software infrast
 * Digital Journalism — Reuters & Meta
 * Meta Back-End Developer Professional Certificate — In Progress
 
+---
+
 ## 🌐 Languages
 
 **Kifuliiru** — Native
 **English** — Advanced
 **French** — Proficiency
 **Kiswahili** — Proficiency
+
+---
 
 ## 📫 Connect
 
